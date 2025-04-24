@@ -1,0 +1,42 @@
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 300px;
+}
+
+h1 {
+    text-align: center;
+    /* color: #191840; */
+    margin: 20px 0;
+    color: white;
+}
+
+body {
+    max-width: 800px;
+    height: 100vh;
+    margin: 0 auto;
+    background-color: #2C3E50;
+    padding: 20px 40px;
+    color: white;
+}
+  
+p, li {
+    color: white;;
+}
+
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  margin-top: -30px;
+  height: auto;
+  margin-left: -7cm;
+}
+div img{
+  max-width: 75px;
+  height: auto;
+  
+}
+
+
